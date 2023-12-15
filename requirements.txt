@@ -1,0 +1,4 @@
+openpyxl
+pywinauto
+pywin32
+windnd
