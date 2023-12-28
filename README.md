@@ -32,7 +32,7 @@
 
 
 # 项目结构
-    D:\PYCHARMPROJECTS\WECHATGROUP
+    PYCHARMPROJECTS\WECHATGROUP
     │  .gitignore
     │  LICENSE
     │  README.MD
